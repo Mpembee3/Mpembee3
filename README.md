@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mpembee3" alt="mpembee3" /></a> </p>
 
-- 🔭 I’m currently working on **Venues and events management system**
+- 🔭 I’m currently working on **Venues reservation system**
 
 - 🌱 I’m currently learning **Laravel (Livewire), Tailwind**
 
