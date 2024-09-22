@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/simonmpembee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simonmpembee" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/simonmpembee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simonmpembee" height="30" width="40" /></a>
+<a href="https://twitter.com/SimonMpembee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simonmpembee" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/simon-mpembee-01418a246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simonmpembee" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
