@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mpembeesimon@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/simon-mpembee-01418a246](www.linkedin.com/in/simon-mpembee-01418a246)
+- 📄 Know about my experiences (www.linkedin.com/in/simon-mpembee-01418a246/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
