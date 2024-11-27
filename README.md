@@ -6,9 +6,9 @@
           
 - 🔭 I’m currently working on **Venues and events management system**
 
-- 🌱 I’m currently learning **Laravel (Livewire), Tailwind**
+- 🌱 I’m currently learning **Livewire, Tailwind**
 
-- 💬 Ask me about **PHP, Laravel (MVC)**
+- 💬 Ask me about **PHP, Laravel**
 
 - 📫 How to reach me **mpembeesimon@gmail.com**
 
