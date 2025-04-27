@@ -2,10 +2,7 @@
 <h3 align="center">A passionate web developer from Tanzania</h3>
 <p dir="auto"><animated-image data-catalyst="" style="float: right; width: 400px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4f3203cca1b4b077a3f5b173d85ef905f5873e26f1bece444c3c61585c8ca99b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966" data-target="animated-image.originalLink"><img align="right" src="https://camo.githubusercontent.com/4f3203cca1b4b077a3f5b173d85ef905f5873e26f1bece444c3c61585c8ca99b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966" alt="coding" data-canonical-src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/4f3203cca1b4b077a3f5b173d85ef905f5873e26f1bece444c3c61585c8ca99b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966" target="_blank">
-          
-
-- 🌱 I’m currently learning **Livewire, Tailwind**
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/4f3203cca1b4b077a3f5b173d85ef905f5873e26f1bece444c3c61585c8ca99b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966" target="_blank">        
 
 - 💬 Ask me about **PHP, Laravel**
 
